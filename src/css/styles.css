@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+position: relative;
+width: 250px;
+height: 500px;
+background-color: aquamarine;
+}
